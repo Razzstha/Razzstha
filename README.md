@@ -26,9 +26,13 @@ When I’m not coding, I love composing and playing music.
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Razzstha&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160" />
+  &nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Razzstha&theme=transparent&hide_border=true" height="160" />
 </p>
 
+---
+
+### 🗂️ Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razzstha&layout=compact&theme=transparent&hide_border=true" height="140" />
 </p>
