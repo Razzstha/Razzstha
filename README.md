@@ -11,7 +11,8 @@ I'm an IT student passionate about creating **useful, aesthetic, and impactful**
 - 🔭 Currently working as **Frontend Developer** at **CodePaila Technology** 
 - 🌱 Learning: **React**, **Next.js**, and **Vite**  
 - 💬 Ask me about: **Web development**  
-- 🎯 Goal: To design creative digital experiences for the Nepali clients  
+- 🎯 Goal: To design creative digital experiences for the Nepali clients
+- 🔗 Portfolio:   <a href="https://raj-shrestha.vercel.app/" target="_blank">
 
 ---
 
