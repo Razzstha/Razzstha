@@ -12,7 +12,7 @@ I'm an IT student passionate about creating **useful, aesthetic, and impactful**
 - 🌱 Learning: **React**, **Next.js**, and **Vite**  
 - 💬 Ask me about: **Web development**  
 - 🎯 Goal: To design creative digital experiences for the Nepali clients
-- 🔗 Portfolio:   <a href="https://raj-shrestha.vercel.app/" target="_blank">
+- 🔗 Portfolio:   <a href="https://raj-shrestha.vercel.app/" target="_blank">Visit My Portfolio -Raj Shrestha </a>
 
 ---
 
