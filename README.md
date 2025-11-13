@@ -48,7 +48,7 @@ I'm an IT student passionate about creating **useful, aesthetic, and impactful**
   <a href="https://www.facebook.com/razz.stha.24" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>&nbsp;&nbsp;&nbsp;
-  <a href="mailto:razzstha92@gmail.com">
+  <a href="mailto:razzstha92@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
