@@ -8,21 +8,21 @@
 ### 🧭 About Me
 I'm an IT student passionate about creating **useful, aesthetic, and impactful** web applications.    
 
-- 🔭 Currently working as **Frontend Developer** in *Codepaila Technology*  
+- 🔭 Currently working as **Frontend Developer** at **CodePaila Technology** 
 - 🌱 Learning: **React**, **Next.js**, and **Vite**  
 - 💬 Ask me about: **Web development**  
 - 🎯 Goal: To design creative digital experiences for the Nepali clients  
 
 ---
 
-### 🧠 Tech Stack
+### 🧠 <h3>Tech Stack</h3>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,php,mongodb,mysql,react,nextjs,vite,nodejs,git,github,figma" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📈 <h3>GitHub Stats</h3>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Razzstha&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160" />
   &nbsp;&nbsp;&nbsp;
