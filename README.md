@@ -1,39 +1,37 @@
 <h1 align="center">👋 Hi, I'm <span style="color:#0078D4;">Razz Shrestha</span></h1>
 <p align="center">
-  💻 IT Student &nbsp;|&nbsp; 🎸 Music Enthusiast &nbsp;|&nbsp; 🌐 Web Creator from Nepal  
+  💻 Frontend Developer &nbsp;|&nbsp; 🌐 Web Creator from Nepal  
 </p>
 
 ---
 
 ### 🧭 About Me
-I'm an IT student passionate about creating **useful, aesthetic, and impactful** web applications.  
-When I’m not coding, I love composing and playing music.  
+I'm an IT student passionate about creating **useful, aesthetic, and impactful** web applications.    
 
-- 🔭 Currently working on: **Paisa Ko Pagalpan** *(a Nepali acoustic song)*  
+- 🔭 Currently working as **Frontend Developer** in *Codepaila Technology*  
 - 🌱 Learning: **React**, **Next.js**, and **Vite**  
-- 💬 Ask me about: **Web development** or **Music production**  
-- 🎯 Goal: To design creative digital experiences for the Nepali audience  
+- 💬 Ask me about: **Web development**  
+- 🎯 Goal: To design creative digital experiences for the Nepali clients  
 
 ---
 
 ### 🧠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,vite,nodejs,python,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mongodb,mysql,react,nextjs,vite,nodejs,git,github,figma" />
 </p>
 
 ---
 
 ### 📈 GitHub Stats
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Razzstha&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" height="160" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Razzstha&theme=transparent&hide_border=true" height="160" />
 </p>
 
 ---
 
 ### 🗂️ Most Used Languages
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Razzstha&layout=compact&theme=transparent&hide_border=true" height="140" />
 </p>
 
